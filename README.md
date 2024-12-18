@@ -30,7 +30,7 @@ Our mission is to unite Web3 technology with kindness and community-driven value
 ---
 
 ## 🚀 **How to Get Started**  
-1. **Get a TON Wallet**: Download [TON Keeper](https://tonkeeper.com).  
+1. **Get a TON Wallet**: Download [TON Keeper](https://tonkeeper.com) [Telegram @wallet](https://t.me/wallet).  
 2. **Buy STRAY**: Visit [BLUM](https://t.me/blum/app?startapp=memepadjetton_STRAY_U74AM-ref_Wameigqjnp) or other exchanges.  
 3. **Join the Community**:  
    - 🐦 Twitter: [@YourHandle](#)  
